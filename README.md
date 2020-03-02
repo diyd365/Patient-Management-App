@@ -1,4 +1,4 @@
-# Patient-Managemenbt-App
+# Patient-Management-App
 Features of the app: Allow patient registration at the clinic reception 
 Allow patients to book consultations at the clinic reception 
 Allow Doctors to look at their Consultations for the day 
